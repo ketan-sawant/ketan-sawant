@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/ketan-sawant/ketan-sawant/blob/main/softwareengineer.png)
 <h1 align="center">Hi 👋, I'm Ketan Rajendra Sawant</h1>
 <h3 align="center">Code Composer| Crafting Software Symphonies</h3>
-<img align="right" alt="coding" width ="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zoho.com%2Fblog%2Fcliq%2Fwhy-this-is-the-right-time-to-be-a-tech-geek.html&psig=AOvVaw0MugQy4xLRRXwMBIed3S8Z&ust=1692600010518000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDFiMbQ6oADFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width ="400" src="https://github.com/ketan-sawant/ketan-sawant/blob/main/git%20sticker.gif">
 
 - 🔭 I’m currently working on [UPI integration in Public Transport](https://github.com/ketan-sawant/publictransportUPI)
 
