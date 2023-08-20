@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/Arshia786-stack/Arshia786-stack/blob/main/Computer%20Science%20Engineer%20(1).png)
 <h1 align="center">Hi 👋, I'm Ketan Rajendra Sawant</h1>
 <h3 align="center">Code Composer| Crafting Software Symphonies</h3>
 
